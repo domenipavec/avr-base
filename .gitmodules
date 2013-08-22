@@ -1,0 +1,3 @@
+[submodule "avr-cpp-lib"]
+	path = avr-cpp-lib
+	url = https://github.com/matematik7/avr-cpp-lib.git
