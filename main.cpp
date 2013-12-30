@@ -23,8 +23,7 @@
  * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
- 
- #define F_CPU 8000000UL  // 8 MHz
+
 //#include <util/delay.h>
 
 #include <avr/io.h>
