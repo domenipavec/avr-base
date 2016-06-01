@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# avr stuff
+*.lst
+*.out
+*.out.map
+*.hex
+
+# vim
+*.swp
